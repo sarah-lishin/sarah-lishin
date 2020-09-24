@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![Sarah Lishin is ready to work!](https://github.com/sarah-lishin/sarah-lishin/blob/master/assets/sarah_background.png)](https://sarah-lishin.github.io/sarah-lishin-portfolio/)
 
 
