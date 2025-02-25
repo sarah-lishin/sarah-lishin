@@ -3,4 +3,4 @@
 
 Hello. I'm Sarah. I'm an Information Security Analyst. 
 
-You can learn more about me by taking a look at [My Portfolio](https://sarah-lishin.github.io/sarah-lishin-portfolio/) page or just peruse my [LinkedIn](https://www.linkedin.com/in/sarah-lishin/) page. 
+You can learn more about me by taking a look at [My Portfolio](https://sarah-lishin.github.io/) page or just peruse my [LinkedIn](https://www.linkedin.com/in/sarah-lishin/) page. 
